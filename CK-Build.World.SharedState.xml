@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CK-Build.World.SharedState WorkStatus="Idle">
-  <CICDKeyVault>-- Version: 1
+  <CICDKeyVault>-- Version: 2
 -- Keys below can be removed if needed.
 APPVEYOR_ENCRYPTED_CODECAKEBUILDER_SECRET_KEY
 NUGET_ORG_PUSH_API_KEY
 AZURE_FEED_SIGNATURE_OPENSOURCE_PAT
- &gt; fdwF/DHfOAzcz/mR7rwjRWO20HEA+JMF+R3JuzTDVApYG/nYy0o3LtGwtYg7XVoSw+9zmQjdMgxiAlZfRHrVywTNMBNMDiND819cCPJwR63ffpNhxxLPDjZbl8F500mftRBN2a7CIt//joFI+kQ6p3DCA5VODbxss9sKxXJBxFgT5PNegWSUC9XzhNCx3rXrK39ZjJFJiRb3eUzZhVDCdqJbuccwZSlsD3aN5ZOyckWZ3jq6b+i0sggvfdub7OiDj2LQgFI+7b13nZn3k42Du4CL3w6/ddaQK24KRARzJQRhPA44fogMvLhnib6kA6JfFBQhiC0YAnAF1sJgEzZd96Zg/n5vOD0H/7VyuwJTAis=
+ &gt; i5PJZpS9Ab531gKZuuMPbTzGIQ7eSePtCEbIGGC9UFi18X/zmjkZ+nw+GCmL/rPZBjFcjwBtA24FuX9ftlnS675YaX8IoxS0yV4J2zBtI0RV0AGpOyznsVL6OXa9DYk4JDeaKhwGvva106+NyWsR8Ahy/LgoiZjkoJrgySkQuFwE4DDss3fn8FZrQoFrLolbhc9w/STlw0O5bD2Y4LeR1qfjD6yfl9B22+t6IL0KkRtZz6Zl7SH1K7rcUvIb8V36c1JoCVmhdyR0desyOEGHZasc3Bqg/hqhjAzd4gcl24z93Q/TvmuHC6/PWVvTaoAEdZrsJIc5O/E2TQMQlPw+XXTfCMhuRNPEE9Fd7phLwnk=
 </CICDKeyVault>
 </CK-Build.World.SharedState>
