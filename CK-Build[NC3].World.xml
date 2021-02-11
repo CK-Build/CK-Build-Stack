@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CK-Build-NetCore3.World>
+<CK-Build-NC3.World>
   <LoadLibrary Name="CK.Env.Plugin.Basics" />
   <LoadLibrary Name="CK.Env.Plugin.SolutionDriver" />
   <LoadLibrary Name="CK.Env.Plugin.Appveyor" />
@@ -37,19 +37,19 @@
   </SharedSolutionSpec>
   <Folder Name="CK-Build">
     <GitFolder Name="CodeCake" Url="https://github.com/CK-Build/CodeCake.git">
-      <Branch Name="develop-NetCore3">
+      <Branch Name="develop-NC3">
         <SolutionSpec NoDotNetUnitTests="true" NoStrongNameSigning="true" />
       </Branch>
     </GitFolder>
     <GitFolder Name="CSemVer-Net" Url="https://github.com/CK-Build/CSemVer-Net.git">
-      <Branch Name="develop-NetCore3">
+      <Branch Name="develop-NC3">
         <SolutionSpec />
       </Branch>
     </GitFolder>
     <GitFolder Name="SGV-Net" Url="https://github.com/CK-Build/SGV-Net.git">
-      <Branch Name="develop-NetCore3">
+      <Branch Name="develop-NC3">
         <SolutionSpec DisableSourceLink="true" />
       </Branch>
     </GitFolder>
   </Folder>
-</CK-Build-NetCore3.World>
+</CK-Build-NC3.World>
