@@ -36,14 +36,8 @@
     </TargetRepositories>>
   </Artifacts>
 
-  <SharedSolutionSpec>
-    <RemoveNuGetSourceNames>
-      <add Name="CKEnvTest" />
-      <add Name="CKEnvTest3" />
-      <add Name="Invenietis - Release" />
-      <add Name="Invenietis - Preview" />
-      <add Name="Invenietis - CI" />
-    </RemoveNuGetSourceNames>
+  <SharedSolutionSpec SPDXLicense="MIT" >
+    <RemoveNuGetSourceNames />
     <ArtifactSources>
       <add Name="NuGet:Signature-OpenSource" />
       <add Name="NuGet:nuget.org"/>
