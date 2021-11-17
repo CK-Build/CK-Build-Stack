@@ -49,6 +49,11 @@
   </SharedSolutionSpec>
 
   <Folder Name="CK-Build">
+    <GitFolder Name="CodeCake" Url="https://github.com/CK-Build/CodeCake.git">
+      <Branch Name="develop">
+        <SolutionSpec NoDotNetUnitTests="true" NoStrongNameSigning="true" />
+      </Branch>
+    </GitFolder>
     <GitFolder Name="CSemVer-Net" Url="https://github.com/CK-Build/CSemVer-Net.git">
       <Branch Name="develop">
         <SolutionSpec />
