@@ -36,6 +36,9 @@
     </TargetRepositories>>
   </Artifacts>
 
+  <BuildProjectSpec TargetFramework="net6.0" >
+  </BuildProjectSpec>
+  
   <SharedSolutionSpec SPDXLicense="MIT" >
     <RemoveNuGetSourceNames />
     <ArtifactSources>
