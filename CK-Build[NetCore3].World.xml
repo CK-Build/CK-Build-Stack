@@ -29,7 +29,7 @@
   <BuildProjectSpec TargetFramework="net6.0" >
   </BuildProjectSpec>
   
-  <SharedSolutionSpec SPDXLicense="MIT">
+  <SharedSolutionSpec SPDXLicense="MIT" PrimaryTargetFramework="netcoreapp3.1">
     <RemoveNuGetSourceNames />
     <ArtifactSources>
       <add Name="NuGet:Signature-OpenSource" />

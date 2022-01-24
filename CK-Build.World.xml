@@ -39,7 +39,7 @@
   <BuildProjectSpec TargetFramework="net6.0" >
   </BuildProjectSpec>
   
-  <SharedSolutionSpec SPDXLicense="MIT" >
+  <SharedSolutionSpec SPDXLicense="MIT" PrimaryTargetFramework="net6.0" >
     <RemoveNuGetSourceNames />
     <ArtifactSources>
       <add Name="NuGet:Signature-OpenSource" />
