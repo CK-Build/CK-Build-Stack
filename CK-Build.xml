@@ -2,7 +2,7 @@
   
   <Repository Url="https://github.com/CK-Build/CSemVer-Net.git" />
   <Repository Url="https://github.com/CK-Build/SGV-Net.git" />
-  <Folder Name="Cake">
+  <Folder Path="Cake">
     <Repository Url="https://github.com/CK-Build/CodeCake.git" />
   </Folder>
 
